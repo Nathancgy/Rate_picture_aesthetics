@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>idealo-ml-image-quality</BucketName><RequestId>J825J4WPS5TRWEW5</RequestId><HostId>oeYxX262Mth+QBojouZrCfDmh3Jk+3kzvU+Ly43WeAiCQrAVB2p/DHzQyaZUc4QYCAitg3aZXpv5MtXqQPH30zT2fN+EORKf+pB7zKcnzi8=</HostId></Error>
